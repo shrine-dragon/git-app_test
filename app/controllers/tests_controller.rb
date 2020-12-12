@@ -1,7 +1,10 @@
 class TestsController < ApplicationController
   def index
   end
-  def create
+  
+  def new
   end
   
+  def create
+  end  
 end
